@@ -1,0 +1,69 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723401999637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402000188 tunnel runnin[2J8[0mplayit (v0.15.18): 1723402002697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402003242 tunnel runnin[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723402017789 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402018337 tunnel runnin[2J8[0mplayit (v0.15.18): 1723402020854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402021391 tunnel runnin[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723402036011 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402036474 tunnel runnin[2J8[0mplayit (v0.15.18): 1723402039078 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+E[2J8[0mGot Error
+MSG: Failed to [2J8[0mplayit (v0.15.18): 1723402051574 tunnel runnin[2J8[0mplayit (v0.15.18): 1723402054203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402054628 tunnel runnin[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723402069291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402069713 tunnel runnin[2J8[0mplayit (v0.15.18): 1723402072353 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402072774 tunnel runnin[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723402087455 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402087864 tunnel runnin[2J8[0mplayit (v0.15.18): 1723402090512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+input-ser[2J8[0mplayit (v0.15.18): 1723402090917 tunnel runnin[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+t-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
